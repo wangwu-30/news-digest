@@ -67,7 +67,7 @@
     const date = new Date().toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' });
     document.getElementById('date').textContent = date;
 
-    fetch('output/latest.json')
+    fetch('latest.json')
       .then(r => r.json())
       .then(data => {
         const container = document.getElementById('news');
