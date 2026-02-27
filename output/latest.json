@@ -1,0 +1,746 @@
+[
+  {
+    "aiRating": {
+      "enSummary": "In a CNBC interview, OpenAI&#39;s CEO stated that progress on artificial general intelligence (AGI) is faster than he anticipated.",
+      "grade": "B+",
+      "score": 65,
+      "signal": "neutral",
+      "status": "done",
+      "summary": "OpenAI CEO在CNBC采访中表示，通用人工智能（AGI）的进展比他预期的还要快"
+    },
+    "coins": [
+      {
+        "symbol": "AGI",
+        "market_type": "cex",
+        "match": [
+          "AGI"
+        ]
+      }
+    ],
+    "description": "",
+    "engineType": "news",
+    "id": 950395,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "OpenAI CEO: Progress Towards Agi Faster Than Even I Expected - CNBC Interview",
+    "ts": "2026-02-27T14:01:42.319086Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "Eigen Labs CEO Sreeram Kannan announced a strategic shift in 2026, which will focus on building EigenCloud applications directly for end users to accelerate revenue. He also emphasized that its full-stack verification infrastructure lays the foundation for digital-native organizations in the AI ​​agent era and will transfer the value of EigenCloud activities to EIGEN tokens through the ELIP-12 mechanism.",
+      "grade": "A",
+      "score": 80,
+      "signal": "long",
+      "status": "done",
+      "summary": "Eigen Labs CEO Sreeram Kannan宣布2026年战略调整，将直接面向终端用户构建EigenCloud相关应用以加速营收，同时强调其全栈验证基础设施为AI代理时代的数字原生机构奠定基础，并通过ELIP-12机制将EigenCloud活动价值传递至EIGEN代币。"
+    },
+    "coins": [
+      {
+        "symbol": "LAYER",
+        "market_type": "cex",
+        "match": [
+          "LAYER"
+        ]
+      },
+      {
+        "symbol": "RICH",
+        "market_type": "cex",
+        "match": [
+          "RICH"
+        ]
+      },
+      {
+        "symbol": "EIGEN",
+        "market_type": "cex",
+        "match": [
+          "EIGEN",
+          "EIGENLAYER"
+        ]
+      },
+      {
+        "symbol": "TRUST",
+        "market_type": "cex",
+        "match": [
+          "TRUST"
+        ]
+      },
+      {
+        "symbol": "AN",
+        "market_type": "cex",
+        "match": [
+          "AN"
+        ]
+      },
+      {
+        "symbol": "FORM",
+        "market_type": "cex",
+        "match": [
+          "FORM"
+        ]
+      },
+      {
+        "symbol": "HMT",
+        "market_type": "cex",
+        "match": [
+          "HUMAN"
+        ]
+      },
+      {
+        "symbol": "JST",
+        "market_type": "cex",
+        "match": [
+          "JUST"
+        ]
+      },
+      {
+        "symbol": "ERA",
+        "market_type": "cex",
+        "match": [
+          "ERA"
+        ]
+      },
+      {
+        "symbol": "STACK",
+        "market_type": "cex",
+        "match": [
+          "STACK"
+        ]
+      },
+      {
+        "symbol": "BR",
+        "market_type": "cex",
+        "match": [
+          "BEDROCK"
+        ]
+      }
+    ],
+    "description": "Coin Founder",
+    "engineType": "news",
+    "id": 950392,
+    "link": "https://twitter.com/sreeramkannan/status/2027383624396571028",
+    "newsType": "Twitter",
+    "source": "sreeramkannan",
+    "text": "This market has been merciless. We are living through one of the most consequential technological shifts in human history. AI is not just changing products, it is rewriting the rules of entire industries almost daily. In moments like this, the right question is not \"when does the market recover?\" It is \"who is best positioned for what comes next?\"\nEigen is. Not because we timed a cycle, but because we built for a world where autonomous software needs trust, accountability, and consequences, especially when that software is trusted with capital.\nFor five years, our mission at Eigen Labs has been to coordinate open innovation. Along the way, one insight became unavoidable: agents can massively accelerate open innovation, but only if we can trust them with higher-stakes work and hold them accountable for every decision and action. This insight has guided EigenCloud's development from the start.\nMarkets, however, shifted from valuing future infrastructure to valuing immediate revenue. We built for the former faster rather than the latter. That gap has cost us. In 2026, we are correcting that, while doubling down on the long-term thesis. We will ship products ourselves without waiting for others: consumer-facing apps and agents that people can use today. We believe EigenCloud is well positioned to be the home for fully autonomous and trusted agents at exactly the moment the world is ready for it.\nI want to close this opening by sharing my personal conviction. I have not sold a single EIGEN token, and I have no intention of selling well past the full unlock in October 2027. I am making this commitment because I believe, more than at any point in the last five years, that we are on the precipice of extraordinary growth built on foundations we have spent half a decade laying. I am betting that the agentic future will be uniquely empowered by EigenCloud.\nThe agentic era unfolding around us is not a threat to Eigen’s thesis. It is the thesis.\n2025: A World-class Foundation\nThis ambition is only possible because of what we’ve built so far. We shipped what we promised and much more, solidifying Eigen as one of the most sophisticated developer platforms in crypto.\nEigenLayer - Foundation completed: EigenLayer became protocol-complete with slashing and redistribution, fulfilling the promise we made with the first whitepaper.\nEigenDA - Leading Data Throughput: EigenDA hit a milestone of 1GB/s (8 Gbps) on testnet, showcasing faster speed than all of crypto.\nEigenCompute - AWS-like DevEx, Crypto-grade trust: EigenCompute enables any dev to deploy an app, game or AI agent just like they are on cloud, but with onchain verifiability and smart-contract bindings.\nEigenAI - Pioneering Verifiable AI: EigenAI launched as the first verifiable AI system offering fully deterministic execution for any open-source AI model.\nTaken together, these are not isolated products. They are one stack. Just as AWS won the cloud era by offering foundational primitives (S3, EC2, Bedrock) built on top of their data centers, EigenCloud is building crypto’s foundational primitives, Data (EigenDA), Compute (EigenCompute), and AI (EigenAI), on top of a verifiable trust layer (EigenLayer).\n \nTo build ambitious crypto applications and AI agents, the system must be trustworthy end-to-end. That full-stack verifiability is what EigenCloud is designed to provide.\nWhat's ahead for 2026\nEigenCloud: Verifiable compute for the agentic era\nA lot of the crypto market today is focused on near-term categories: stablecoins, RWAs, and perps. Those matter. But we believe crypto is bigger than an incremental update to TradFi. We believe it is a new accountability layer for the internet.\nThe most important shift happening in the world right now is the takeoff of AI agents. Marc Andreessen coined “software is eating the world.” Now agents are eating software, and increasingly, they can create real products in minutes.\nBut there is a missing layer. There is no legal or technical infrastructure for autonomous agents to own property, enter contracts, take liabilities, or start companies. Digital-native intelligence needs digital-native institutions, and those institutions do not exist yet.\nWe believe building those digital-native institutions is one of the most consequential places crypto can contribute.\nA smart contract is code that can own property. There are already billions of dollars secured by smart contracts. If we can put an agent into a smart contract, with enforceable rules, then agents can own assets, enter agreements, take liabilities through slashing, form DAOs, and operate as durable economic actors.\nThis is theoretically possible on any smart-contract blockchain. In practice, it has been infeasible. Blockchains have low throughput, cannot run parallelized GPU workloads, struggle with non-determinism, and cannot enforce privacy at the level serious agent systems require.\nEigenCloud is building the infrastructure to make this possible today. \nTo make agents operate with the reliability of smart contracts, we need full-stack verifiability:\nEigenCompute verifies what an agent actually executed.\nEigenDA verifies the data the agent consumed.\nEigenAI verifies deterministic inference for the model.\nEigenLayer enforces consequences, slashing and redistribution, when rules are violated.\nThis is why verifiable agents are not one feature. They are a system. And building that system is what EigenCloud is for. We believe agents will become a new kind of economic actor, and over time, a major asset class. EigenCloud is building the platform for a generation of agents we can buy from, sell to, invest in, earn through, and trade with: a verifiable cloud for the agentic era of the internet.\n \nAs we build the road to the future, it is important to be grounded in the present. In 2026, we will focus on building up network revenue. As proposed in ELIP-12, we’re introducing incentive and fee mechanisms designed to pass value from EigenCloud activity to the EIGEN token used to operate EigenLayer. As we examined the near-term revenue available from selling only to developers, it became clear that this market is real, but limited in the short run. It will grow, and we will grow it. But if we want to accelerate revenue sooner, we must also create direct value for end users. EigenCloud democratizes the creation of entirely new categories of crypto-secured applications and agents. Instead of waiting for others to build them, we will show the way and begin building them ourselves.  Our primary focus sits at the intersection of crypto and agents -  agentic companies, agentic commerce and payments, agentic prediction markets - which offer a rich tapestry of applications to be explored and built.\nThinking and building in public: This is an unusual moment in society. AI is accelerating rapidly and will displace large parts of knowledge work, and eventually, parts of labor. If we are building new digital institutions, we believe we should do it in public, with as much transparency as possible. You may have already seen early signs of what this looks like:\nWe recently launched a new podcast called TheCoordinate we’ll use to engage with, learn from and inspire the next generation of builders.\nWe also recently ran an Open Innovation challenge and received 40+ agent entries, along with case studies that highlight how agents can be built on EigenCloud.\nWe launched a first example of a sovereign AI agent Sovra, which is an AI cartoonist that makes money by selling product placements. It operates like an economic entity and creates content, runs recurring auctions, earns stablecoins and manages its own treasury.\nA New Era for Crypto\nWhen we emerge from this bear market, which we definitely will, new winners and losers will emerge. Projects which are not built for this technological future will likely find their best days behind them. But we were built for this precise moment. Every building block that we have shipped is necessary to establish trust, verifiability and autonomy and create digital institutions for the agentic era. \n\nWe can now put together these building blocks in entirely new ways that we believe will usher a new era in crypto. I can’t wait to unveil what we are building in the next few months!\nWith unwavering conviction,\nSreeram Kannan\nFounder & CEO, Eigen Labs",
+    "ts": "2026-02-27T14:01:40.51811Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "Moonpay, in partnership with M0, launched Pyusdx*, a new product that enables the creation of application-specific stablecoins backed by PayPal USD.",
+      "grade": "B+",
+      "score": 65,
+      "signal": "neutral",
+      "status": "done",
+      "summary": "Moonpay联合M0推出Pyusdx*，该新产品可创建由PayPal USD背书的特定应用稳定币"
+    },
+    "coins": null,
+    "description": "",
+    "engineType": "news",
+    "id": 950391,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "Moonpay: Co & M0 Introduced Pyusdx*, New Offering That Enables Creation of Application-Specific Stablecoins Backed by PayPal USD",
+    "ts": "2026-02-27T14:01:38.305013Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "The IMF chief told Fox Business that he expects the U.S. economy to strengthen and create jobs.",
+      "grade": "B+",
+      "score": 65,
+      "signal": "neutral",
+      "status": "done",
+      "summary": "IMF总裁向福克斯商业表示，预计美国经济将走强并创造就业岗位。"
+    },
+    "coins": null,
+    "description": "",
+    "engineType": "news",
+    "id": 950390,
+    "link": "https://dbws.io/newsbot/i/nS0N3Y7001",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "IMF expects US economy to strengthen and create jobs, managing director tells Fox Business",
+    "ts": "2026-02-27T14:01:15.093604Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "U.S. Energy Secretary Wright stated that President Trump currently has no plans to visit Venezuela, but it is indeed a very real possibility.",
+      "grade": "B+",
+      "score": 65,
+      "signal": "neutral",
+      "status": "done",
+      "summary": "美国能源部长Wright称，特朗普总统目前无访问委内瑞拉计划，但这确实是很现实的可能性。"
+    },
+    "coins": [
+      {
+        "symbol": "BTC",
+        "market_type": "cex",
+        "match": [
+          "TRUMP"
+        ]
+      },
+      {
+        "symbol": "ETH",
+        "market_type": "cex",
+        "match": [
+          "TRUMP"
+        ]
+      },
+      {
+        "symbol": "SOL",
+        "market_type": "cex",
+        "match": [
+          "TRUMP"
+        ]
+      },
+      {
+        "symbol": "TRUMP",
+        "market_type": "cex",
+        "match": [
+          "TRUMP"
+        ]
+      }
+    ],
+    "description": "",
+    "engineType": "news",
+    "id": 950377,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "US Energy Secretary Wright Says President Trump Currently Has No Plans to Visit Venezuela, “but It’s Certainly a Very Real Possibility”",
+    "ts": "2026-02-27T14:00:31.353725Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "The IAEA report states that it is crucial for them to immediately commence inspection activities in Iran.",
+      "grade": "A",
+      "score": 85,
+      "signal": "short",
+      "status": "done",
+      "summary": "IAEA报告称，其立即在伊朗开展核查活动至关重要。"
+    },
+    "coins": null,
+    "description": "",
+    "engineType": "news",
+    "id": 950357,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "It is Critical for the IAEA to Conduct Verification Activities in Iran Without Further Delay -IAEA Report",
+    "ts": "2026-02-27T14:00:00.790409Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "An IAEA report states that Iran has never granted access to its enrichment facility in Isfahan since it first declared it in June, a matter that is increasingly worrying.",
+      "grade": "A+",
+      "score": 95,
+      "signal": "short",
+      "status": "done",
+      "summary": "IAEA报告称，伊朗自6月首次申报伊斯法罕浓缩设施以来从未允许其进入，此事日益令人担忧。"
+    },
+    "coins": null,
+    "description": "",
+    "engineType": "news",
+    "id": 950356,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "It is a Matter of Increasing Concern That Iran Has Never Provided the IAEA with Access to Its Enrichment Facility at Isfahan Since It Was First Declared in June -IAEA Report",
+    "ts": "2026-02-27T14:00:00.768164Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "An IAEA report states that the Isfahan tunnel complex stores uranium with enrichment levels of 20% and 60%, and satellite imagery shows vehicle activity at the entrance.",
+      "grade": "A",
+      "score": 85,
+      "signal": "short",
+      "status": "done",
+      "summary": "IAEA报告称，伊斯法罕隧道综合体储存丰度20%和60%的铀，卫星图像显示入口处有车辆活动。"
+    },
+    "coins": null,
+    "description": "",
+    "engineType": "news",
+    "id": 950355,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "Uranium Enriched to Up to 20% and 60% Was Stored at Tunnel Complex at Isfahan, Regular Vehicular Activity Could Be Seen Around Entrance in Satellite Imagery -IAEA Report",
+    "ts": "2026-02-27T14:00:00.735643Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "The IAEA report states that it does not know the exact location of the enrichment facility that Iran has declared in Isfahan, whether it contains nuclear materials, or whether it is operational.",
+      "grade": "A+",
+      "score": 95,
+      "signal": "short",
+      "status": "done",
+      "summary": "IAEA报告称，其不知道伊朗伊斯法罕已申报浓缩设施的精确位置、是否含核材料或是否运行。"
+    },
+    "coins": null,
+    "description": "",
+    "engineType": "news",
+    "id": 950354,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "IAEA Does Not Know the Precise Whereabouts of Iran’s Declared Enrichment Facility at Isfahan, or Whether It Contains Nuclear Material or is Operational -IAEA Report",
+    "ts": "2026-02-27T14:00:00.706197Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "According to an IAEA report, as of June 13, Iran&#39;s stockpile of uranium hexafluoride with a purity of up to 20% was still estimated at 184.1 kilograms.",
+      "grade": "A+",
+      "score": 95,
+      "signal": "short",
+      "status": "done",
+      "summary": "IAEA报告显示，截至6月13日，伊朗铀-235丰度高达20%的六氟化铀库存仍估计为184.1公斤。"
+    },
+    "coins": [
+      {
+        "symbol": "FORM",
+        "market_type": "cex",
+        "match": [
+          "FORM"
+        ]
+      }
+    ],
+    "description": "",
+    "engineType": "news",
+    "id": 950353,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "As of June 13, Iran’s Stock of Uranium Enriched to Up to 20% in Uf6 Form is Still Estimated at 184.1 Kgkg -IAEA Report",
+    "ts": "2026-02-27T14:00:00.679318Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "An IAEA report states that the inability to verify Iran&#39;s enriched uranium stockpile has raised concerns about nuclear proliferation.",
+      "grade": "A",
+      "score": 85,
+      "signal": "short",
+      "status": "done",
+      "summary": "IAEA报告称，无法核实伊朗浓缩铀库存的情况引发核扩散担忧。"
+    },
+    "coins": null,
+    "description": "",
+    "engineType": "news",
+    "id": 950352,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "The IAEA’s Lack of Access to Verify Iran’s Enriched Uranium Stocks is a Matter of Proloferation Concern -IAEA Report",
+    "ts": "2026-02-27T14:00:00.655889Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "According to the IAEA definition, theoretically, about 42 kilograms of uranium with an enrichment of 60% could be further enriched to make a nuclear bomb.",
+      "grade": "A+",
+      "score": 95,
+      "signal": "short",
+      "status": "done",
+      "summary": "根据IAEA定义，理论上约42公斤丰度60%的铀进一步浓缩后可制造一枚核弹。"
+    },
+    "coins": [
+      {
+        "symbol": "BOMB",
+        "market_type": "dex",
+        "chain": "bsc",
+        "contract_address": "0x7e975d85714b11d862c7cffee3c88d565a139eb7",
+        "pool": "0xeffbf5632d6eb8b3b3c77b74df3154caa9a77660",
+        "match": [
+          "BOMB"
+        ]
+      }
+    ],
+    "description": "",
+    "engineType": "news",
+    "id": 950351,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "According to IAEA’s Definition, Around 42 Kg of Uranium Enriched to 60% is Theoretically Enough, if Enriched Further, to Produce a Nuclear Bomb",
+    "ts": "2026-02-27T14:00:00.627064Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "The IAEA report states that Iran has not provided reports or access regarding the status of its attacked nuclear facilities and related nuclear materials.",
+      "grade": "A+",
+      "score": 95,
+      "signal": "short",
+      "status": "done",
+      "summary": "IAEA报告称，伊朗未就其遭袭核设施及相关核材料状况提供报告或准入。"
+    },
+    "coins": [
+      {
+        "symbol": "SNT",
+        "market_type": "cex",
+        "match": [
+          "STATUS"
+        ]
+      }
+    ],
+    "description": "",
+    "engineType": "news",
+    "id": 950350,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "Iran Has Not Provided Any Report to the IAEA on the Status of Its Attacked Nuclear Facilities and Their Associated Nuclear Material, or Provided Access to Them -IAEA Report",
+    "ts": "2026-02-27T14:00:00.601128Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "The IAEA report reiterated that Iran&#39;s stockpile of enriched uranium was estimated at 9,874.9 kilograms when Israel launched its attack on June 13.",
+      "grade": "A+",
+      "score": 95,
+      "signal": "short",
+      "status": "done",
+      "summary": "IAEA报告重申，6月13日以色列发动袭击时，伊朗浓缩铀库存估计为9874.9公斤。"
+    },
+    "coins": null,
+    "description": "",
+    "engineType": "news",
+    "id": 950349,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "IAEA Report Reiterates Previous Reports’ Finding That on June 13, When Israel Launched Attacks, Iran’s Stock of Enriched Uranium is Estimated to Have Been 9,874.9 Kg",
+    "ts": "2026-02-27T14:00:00.564569Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "According to the IAEA definition, theoretically, 125 kilograms of uranium with an enrichment of 20% can be further enriched to make a nuclear bomb.",
+      "grade": "A",
+      "score": 85,
+      "signal": "short",
+      "status": "done",
+      "summary": "根据IAEA定义，理论上125公斤丰度20%的铀进一步浓缩后可制造一枚核弹。"
+    },
+    "coins": [
+      {
+        "symbol": "BOMB",
+        "market_type": "dex",
+        "chain": "bsc",
+        "contract_address": "0x7e975d85714b11d862c7cffee3c88d565a139eb7",
+        "pool": "0xeffbf5632d6eb8b3b3c77b74df3154caa9a77660",
+        "match": [
+          "BOMB"
+        ]
+      }
+    ],
+    "description": "",
+    "engineType": "news",
+    "id": 950348,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "According to IAEA’s Definition, 125 Kg of Uranium Enriched to 20% is Theoretically Enough, if Enriched Further, to Produce a Nuclear Bomb",
+    "ts": "2026-02-27T14:00:00.533839Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "The IAEA report states that, due to the inability to access Iranian facilities, it cannot provide information on the current size, location, or whether enrichment has been suspended from Iranian uranium.",
+      "grade": "A+",
+      "score": 95,
+      "signal": "short",
+      "status": "done",
+      "summary": "IAEA报告称，因无法进入伊朗设施，无法提供其浓缩铀库存的当前规模、位置或是否暂停浓缩的信息。"
+    },
+    "coins": null,
+    "description": "",
+    "engineType": "news",
+    "id": 950347,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "IAEA Therefore Cannot Provide Any Information on Current Size or Whereabouts of Iran’s Enriched Uranium Stock, or Whether It Has Suspended All Enrichment, IAEA Report Says",
+    "ts": "2026-02-27T14:00:00.507733Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "According to an IAEA report, as of June 13, Iran&#39;s stockpile of uranium hexafluoride with a purity of up to 60% uranium-235 was still estimated at 440.9 kilograms.",
+      "grade": "A+",
+      "score": 95,
+      "signal": "short",
+      "status": "done",
+      "summary": "IAEA报告显示，截至6月13日，伊朗铀-235丰度高达60%的六氟化铀库存仍估计为440.9公斤。"
+    },
+    "coins": [
+      {
+        "symbol": "FORM",
+        "market_type": "cex",
+        "match": [
+          "FORM"
+        ]
+      }
+    ],
+    "description": "",
+    "engineType": "news",
+    "id": 950346,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "As of June 13, Iran’s Stock of Uranium Enriched to Up to 60% Purity in Uranium Hexafluoride (Uf6) Form is Still Estimated at 440.9 Kg -IAEA Report",
+    "ts": "2026-02-27T14:00:00.472473Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "The IAEA sent two quarterly reports on Iran to its member states, both of which were seen by Reuters.",
+      "grade": "B+",
+      "score": 70,
+      "signal": "neutral",
+      "status": "done",
+      "summary": "IAEA向成员国发送两份关于伊朗的季度报告，均被路透社看到。"
+    },
+    "coins": null,
+    "description": "",
+    "engineType": "news",
+    "id": 950345,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "IAEA Sends Two Quarterly Reports on Iran to Member States, Both Seen by Reuters",
+    "ts": "2026-02-27T14:00:00.450368Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "The Polish Ministry of Finance announced that it will issue multiple tranches of bonds on March 18, with a total value of 7-13 billion zlotys.",
+      "grade": "B",
+      "score": 60,
+      "signal": "neutral",
+      "status": "done",
+      "summary": "波兰财政部宣布将于3月18日招标发行多期债券，规模预计为70-130亿兹罗提。"
+    },
+    "coins": null,
+    "description": "",
+    "engineType": "news",
+    "id": 950342,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "Poland to Offer Bonds Due Jan 2028, March 2031, July 2031, Oct 2035, Sept 2036 and Possibly Other Bonds Worth PLN 7.0-13.0 bln at Tender on March 18-Finance Ministry",
+    "ts": "2026-02-27T14:00:00.425369Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "The IAEA report states that it remains unable to access any of Iran&#39;s four declared uranium enrichment facilities.",
+      "grade": "A+",
+      "score": 95,
+      "signal": "short",
+      "status": "done",
+      "summary": "IAEA报告称，其仍无法进入伊朗任何已申报的四座铀浓缩设施。"
+    },
+    "coins": [
+      {
+        "symbol": "FORM",
+        "market_type": "cex",
+        "match": [
+          "FOUR"
+        ]
+      }
+    ],
+    "description": "",
+    "engineType": "news",
+    "id": 950341,
+    "link": "",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "IAEA Has Still Not Had Access to Any of Iran’s Four Declared Uranium Enrichment Facilities, IAEA Report Says",
+    "ts": "2026-02-27T14:00:00.387994Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "The OpenAI Foundation&#39;s stake in the OpenAI Group has risen to over $180 billion. It will expand its collaboration with AWS, invest $100 billion over eight years, and raise $110 billion at a valuation of $730 billion.",
+      "grade": "A+",
+      "score": 95,
+      "signal": "neutral",
+      "status": "done",
+      "summary": "OpenAI Foundation在OpenAI Group的持股价值升至超1800亿美元，将与AWS扩大合作，8年投入1000亿美元，还将以7300亿美元估值募资1100亿美元。"
+    },
+    "coins": null,
+    "description": "China's business and market",
+    "engineType": "news",
+    "id": 950335,
+    "link": "https://twitter.com/sino_market/status/2027383063739777428",
+    "newsType": "Twitter",
+    "source": "sino_market",
+    "text": "OPENAI FOUNDATION'S STAKE IN OPENAI GROUP RISES TO OVER $180B<br/><br/>OPENAI EXPANDING AWS PACT BY $100B OVER 8 YEARS<br/><br/>OPENAI TO RAISE $110B IN NEW INVESTMENT AT $730B VALUATION (https://mktnews.com/flashDetail.html?id=019c9f4e-27e1-7ddd-9060-82d912bf2c64) https://t.co/slUPperqmV",
+    "ts": "2026-02-27T13:59:24.69569Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "Amazon&#39;s announcement of a $50 billion investment in OpenAI could have a positive impact on Amazon and related AI-related cryptocurrencies.",
+      "grade": "A+",
+      "score": 95,
+      "signal": "long",
+      "status": "done",
+      "summary": "亚马逊宣布将向OpenAI投资500亿美元，该消息可能对亚马逊及相关AI领域加密货币产生积极影响。"
+    },
+    "coins": [
+      {
+        "symbol": "AMZN",
+        "market_type": "cex",
+        "match": [
+          "AMZN"
+        ]
+      },
+      {
+        "symbol": "XYZ-AMZN",
+        "market_type": "cex",
+        "match": [
+          "AMAZON"
+        ]
+      }
+    ],
+    "description": "China's business and market",
+    "engineType": "news",
+    "id": 950331,
+    "link": "https://twitter.com/sino_market/status/2027382986325590098",
+    "newsType": "Twitter",
+    "source": "sino_market",
+    "text": "AMAZON: AMAZON WILL INVEST $50 BLN IN OPENAI<br/>$AMZN #OPENAI #AI <br/> (https://mktnews.com/flashDetail.html?id=019c9f4b-2579-7ddd-9060-47a3a5dac04d)",
+    "ts": "2026-02-27T13:59:06.202288Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "The U.S. Energy Secretary stated that Venezuelan oil sales revenue will no longer be transshipped through Qatar.",
+      "grade": "B+",
+      "score": 65,
+      "signal": "neutral",
+      "status": "done",
+      "summary": "美国能源部长表示，委内瑞拉石油销售收益不再通过卡塔尔转运。"
+    },
+    "coins": null,
+    "description": "",
+    "engineType": "news",
+    "id": 950328,
+    "link": "https://dbws.io/newsbot/i/nL1N3ZN0LX",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "Venezuelan oil sale proceeds no longer routed through Qatar, US energy sec says",
+    "ts": "2026-02-27T13:58:47.854584Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "The second phase of DZDP introduced multicast technology to Solana validators. This technology, which has been used by exchanges and high-frequency trading firms for decades, allows market data to be distributed to multiple recipients without duplication.",
+      "grade": "B+",
+      "score": 70,
+      "signal": "long",
+      "status": "done",
+      "summary": "DZDP第二阶段向Solana验证者引入组播技术，该技术被交易所和高频交易公司使用数十年，可向多接收方分发市场数据而不重复传输。"
+    },
+    "coins": [
+      {
+        "symbol": "SOL",
+        "market_type": "cex",
+        "match": [
+          "SOLANA"
+        ]
+      },
+      {
+        "symbol": "SNT",
+        "market_type": "cex",
+        "match": [
+          "STATUS"
+        ]
+      }
+    ],
+    "description": "Coin X",
+    "engineType": "news",
+    "id": 950318,
+    "link": "https://twitter.com/doublezero/status/2027382773497954754",
+    "newsType": "Twitter",
+    "source": "doublezero",
+    "text": "6/ Phase II also introduces multicast to Solana validators.<br/><br/>Exchanges and high-frequency trading firms have used multicast for decades to distribute market data to multiple recipients without duplicating transmission.<br/><br/>Now, as a Solana validator, this technology is available to… https://x.com/i/web/status/2027382773497954754 https://t.co/Ya6QywEtB7",
+    "ts": "2026-02-27T13:58:16.181073Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "Geographic expansion via DoubleZero links can reduce the average latency of the Solana network by approximately 11%. Lower latency means faster transaction incorporation, more leader slots, and more rewards.",
+      "grade": "B+",
+      "score": 66,
+      "signal": "long",
+      "status": "done",
+      "summary": "通过DoubleZero链接进行地理扩展，可使Solana网络平均延迟降低约11%，更低延迟意味着更快交易纳入、更多领导者插槽和更多奖励。"
+    },
+    "coins": [
+      {
+        "symbol": "2Z",
+        "market_type": "cex",
+        "match": [
+          "DOUBLEZERO"
+        ]
+      }
+    ],
+    "description": "Coin X",
+    "engineType": "news",
+    "id": 950317,
+    "link": "https://twitter.com/doublezero/status/2027382770603802775",
+    "newsType": "Twitter",
+    "source": "doublezero",
+    "text": "5/ To put things into perspective… <br/><br/>Geographic expansion using DoubleZero links could reduce average network latency by ~11% in comparison to the public internet.<br/><br/>Lower latency = faster tx inclusion = more leader slots = more rewards.",
+    "ts": "2026-02-27T13:58:15.395959Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "The second phase of DZDP introduces a three-ring delegation model: Ring 1 (EU) serves as the benchmark staking, Ring 2 (US, Canada, India) provides decentralized rewards, and Ring 3 (São Paulo and three other locations) provides full-peripheral incentives, with rewards increasing the further away from the European central area.",
+      "grade": "B+",
+      "score": 68,
+      "signal": "long",
+      "status": "done",
+      "summary": "DZDP第二阶段引入三环委托模型：环1（欧盟）为基准质押，环2（美、加、印）为去中心化奖励，环3（圣保罗等四地）为全额边缘激励，离欧洲集中区越远奖励越多。"
+    },
+    "coins": [
+      {
+        "symbol": "SNT",
+        "market_type": "cex",
+        "match": [
+          "STATUS"
+        ]
+      }
+    ],
+    "description": "Coin X",
+    "engineType": "news",
+    "id": 950316,
+    "link": "https://twitter.com/doublezero/status/2027382766782824907",
+    "newsType": "Twitter",
+    "source": "doublezero",
+    "text": "3/ Phase II introduces a three-ring delegation model.<br/><br/>Ring 1 (EU) → baseline stake<br/>Ring 2 (US, Canada, India) → decentralization bonus<br/>Ring 3 (SP, SG, HK, TYO) → full edge incentives<br/><br/>The further you operate from the established European stake concentration zone, the more… https://x.com/i/web/status/2027382766782824907",
+    "ts": "2026-02-27T13:58:14.81118Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "DZDP deploys a reward pool of up to 600,000 SOL per region for validators in São Paulo, Singapore, Hong Kong, and Tokyo, distributed according to the staking weight of validators associated with DoubleZero.",
+      "grade": "B+",
+      "score": 65,
+      "signal": "long",
+      "status": "done",
+      "summary": "DZDP为圣保罗、新加坡、香港、东京的验证者部署每区域最高60万SOL奖励池，按DoubleZero关联验证者的质押权重分配。"
+    },
+    "coins": [
+      {
+        "symbol": "SOL",
+        "market_type": "cex",
+        "match": [
+          "SOL"
+        ]
+      },
+      {
+        "symbol": "2Z",
+        "market_type": "cex",
+        "match": [
+          "DOUBLEZERO"
+        ]
+      }
+    ],
+    "description": "Coin X",
+    "engineType": "news",
+    "id": 950314,
+    "link": "https://twitter.com/doublezero/status/2027382764580823343",
+    "newsType": "Twitter",
+    "source": "doublezero",
+    "text": "2/ The DZDP is deploying up to 600K SOL bonus incentive pool per region to validators operating in:<br/><br/>São Paulo, Singapore, Hong Kong, and Tokyo<br/><br/>Distributed proportional to stake weight of DoubleZero connected validators.",
+    "ts": "2026-02-27T13:58:13.935008Z"
+  }
+]

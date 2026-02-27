@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>📰 News Digest</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #0d1117;
+      color: #c9d1d9;
+      min-height: 100vh;
+      padding: 20px;
+    }
+    .container { max-width: 800px; margin: 0 auto; }
+    header {
+      text-align: center;
+      padding: 40px 0;
+      border-bottom: 1px solid #30363d;
+      margin-bottom: 30px;
+    }
+    h1 { font-size: 2rem; margin-bottom: 10px; }
+    .date { color: #8b949e; font-size: 0.9rem; }
+    .news-item {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      padding: 16px;
+      margin-bottom: 12px;
+      display: flex;
+      gap: 12px;
+    }
+    .score {
+      font-size: 1.5rem;
+      font-weight: bold;
+      min-width: 50px;
+      text-align: center;
+    }
+    .score.high { color: #f85149; }
+    .score.medium { color: #d29922; }
+    .score.low { color: #3fb950; }
+    .content { flex: 1; }
+    .text { margin-bottom: 8px; line-height: 1.5; }
+    .meta { font-size: 0.8rem; color: #8b949e; }
+    .source { background: #21262d; padding: 2px 8px; border-radius: 4px; margin-right: 8px; }
+    footer {
+      text-align: center;
+      padding: 30px;
+      color: #8b949e;
+      font-size: 0.8rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>📰 News Digest</h1>
+      <p class="date" id="date"></p>
+    </header>
+    <div id="news"></div>
+    <footer>
+      Powered by OpenClaw + 6551 API
+    </footer>
+  </div>
+  <script>
+    const date = new Date().toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' });
+    document.getElementById('date').textContent = date;
+
+    fetch('output/latest.json')
+      .then(r => r.json())
+      .then(data => {
+        const container = document.getElementById('news');
+        data.slice(0, 10).forEach((item, i) => {
+          const score = item.aiRating?.score || 0;
+          const scoreClass = score >= 70 ? 'high' : score >= 50 ? 'medium' : 'low';
+          const source = item.newsType || item.engineType || 'Unknown';
+          const text = item.text || item.description || '';
+          
+          container.innerHTML += `
+            <div class="news-item">
+              <div class="score ${scoreClass}">${score}</div>
+              <div class="content">
+                <div class="text">${text.slice(0, 200)}${text.length > 200 ? '...' : ''}</div>
+                <div class="meta">
+                  <span class="source">${source}</span>
+                  ${item.link ? `<a href="${item.link}" target="_blank" style="color: #58a6ff;">原文链接</a>` : ''}
+                </div>
+              </div>
+            </div>
+          `;
+        });
+      });
+  </script>
+</body>
+</html>

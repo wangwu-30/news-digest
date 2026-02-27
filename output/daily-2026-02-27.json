@@ -1,0 +1,283 @@
+[
+  {
+    "aiRating": {
+      "enSummary": "According to COINTELEGRAPH, spot Bitcoin ETFs saw inflows of $1 billion in three days as investors bought on dips.",
+      "grade": "A",
+      "score": 80,
+      "signal": "long",
+      "status": "done",
+      "summary": "据COINTELEGRAPH报道，现货比特币ETF在三天内流入10亿美元，投资者逢低买入。"
+    },
+    "coins": [
+      {
+        "symbol": "BTC",
+        "market_type": "cex",
+        "match": [
+          "BITCOIN"
+        ]
+      }
+    ],
+    "description": "COINTELEGRAPH: Spot Bitcoin ETFs take in $1B in three days as investors buy the dip",
+    "engineType": "news",
+    "id": 948221,
+    "link": "",
+    "newsType": "tree",
+    "source": "Blogs",
+    "text": "COINTELEGRAPH: Spot Bitcoin ETFs take in $1B in three days as investors buy the dip",
+    "ts": "2026-02-27T09:41:30.238Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "The spot Bitcoin ETF saw $1 billion in inflows in three days as investors bought on dips.",
+      "grade": "A",
+      "score": 78,
+      "signal": "long",
+      "status": "done",
+      "summary": "现货比特币ETF在三天内流入10亿美元，投资者逢低买入。"
+    },
+    "coins": [
+      {
+        "symbol": "BTC",
+        "market_type": "cex",
+        "match": [
+          "BITCOIN"
+        ]
+      }
+    ],
+    "description": "",
+    "engineType": "news",
+    "id": 948220,
+    "link": "https://cointelegraph.com/news/bitcoin-etfs-1b-inflows-drawdown-dip-buying",
+    "newsType": "phoenixnews",
+    "source": "Crypto",
+    "text": "Spot Bitcoin ETFs take in $1B in three days as investors buy the dip",
+    "ts": "2026-02-27T09:41:29Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "Bitcoin ETFs saw inflows of $1 billion in three days as investors bought on dips.",
+      "grade": "A",
+      "score": 78,
+      "signal": "long",
+      "status": "done",
+      "summary": "现货比特币ETF在三天内流入10亿美元，因投资者逢低买入"
+    },
+    "coins": [
+      {
+        "symbol": "BTC",
+        "market_type": "cex",
+        "match": [
+          "BITCOIN"
+        ]
+      }
+    ],
+    "description": "",
+    "engineType": "news",
+    "id": 948219,
+    "link": "https://cointelegraph.com/news/bitcoin-etfs-1b-inflows-drawdown-dip-buying",
+    "newsType": "Cointelegraph",
+    "source": "",
+    "text": "Spot Bitcoin ETFs take in $1B in three days as investors buy the dip",
+    "ts": "2026-02-27T09:41:30.564916Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "On February 14 and 22, 2026, SOF and LAXO tokens suffered losses of approximately $248,000 and $190,000 respectively due to a flaw in their destruction logic.",
+      "grade": "B+",
+      "score": 65,
+      "signal": "short",
+      "status": "done",
+      "summary": "2026年2月14日和22日，SOF和LAXO代币因销毁逻辑漏洞分别遭受约24.8万美元和19万美元损失。"
+    },
+    "coins": null,
+    "description": "",
+    "engineType": "news",
+    "id": 948191,
+    "link": "https://twitter.com/certikalert/status/2027317095420072317",
+    "newsType": "Twitter",
+    "source": "certikalert",
+    "text": "#CertiKInsight 🚨             <br/><br/>On 14 February and 22 February 2026, SOF and LAXO tokens were exploited, resulting in losses of ~$248K and ~$190K respectively, due to their burn logic.<br/><br/>To learn more about what happened, read our full analysis here 👇<br/><br/>https://www.certik.com/blog/sof-laxo-incident-analysis",
+    "ts": "2026-02-27T09:37:16.948213Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "Several companies are laying off employees as they shift their investments toward artificial intelligence.",
+      "grade": "B",
+      "score": 65,
+      "signal": "neutral",
+      "status": "done",
+      "summary": "因投资转向人工智能，多家公司正在裁员。"
+    },
+    "coins": null,
+    "description": "",
+    "engineType": "news",
+    "id": 948205,
+    "link": "https://dbws.io/newsbot/i/nL8N3ZN0LP",
+    "newsType": "Reuters",
+    "source": "",
+    "text": "FACTBOX-Companies cutting jobs as investments shift toward AI",
+    "ts": "2026-02-27T09:39:42.29048Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "Startale launched its first trust bank-backed Japanese yen stablecoin, JPYSC, this week with SBI Holdings, joined MoneyX as a platinum sponsor, launched its Layer 3 campaign, CEO Watanabe Sota will speak at the summit in April 2026, and also participated in Soneium Score Season 7.",
+      "grade": "B+",
+      "score": 65,
+      "signal": "long",
+      "status": "done",
+      "summary": "Startale本周与SBI Holdings推出首个信托银行支持的日元稳定币JPYSC，加入MoneyX成为铂金赞助商，在Layer3启动活动，CEO WatanabeSota将在2026年4月峰会发言，还参与Soneium Score Season 7。"
+    },
+    "coins": [
+      {
+        "symbol": "TRUST",
+        "market_type": "cex",
+        "match": [
+          "TRUST"
+        ]
+      },
+      {
+        "symbol": "BANK",
+        "market_type": "cex",
+        "match": [
+          "BANK"
+        ]
+      },
+      {
+        "symbol": "L3",
+        "market_type": "cex",
+        "match": [
+          "LAYER3"
+        ]
+      }
+    ],
+    "description": "Startale 💿 (@StartaleGroup)",
+    "engineType": "news",
+    "id": 948211,
+    "link": "https://twitter.com/StartaleGroup/status/2027317826999218633",
+    "newsType": "tree",
+    "source": "",
+    "text": "📣 Big week for Startale\n\n■ Startale and SBI Holdings revealed JPYSC, the first trust bank–backed JPY stablecoin.\n\n■ Startale joined MoneyX (@WebX_Asia) today as a Platinum Sponsor, where SBI Holdings Chairman @yoshitaka_kitao shared the first public announcement of the yen-denominated stablecoin JPYSC.\n\n■ Startale launched the Superstars Mashup campaign on @layer3 with the Startale Superstars winning teams.\n\n■ Startale CEO @WatanabeSota will speak at the Tech for Impact Summit 2026 this April, sharing insights on “Japan Strikes Back: Web3 Rewrites the Economic Future.”\n\n■ @soneium Score Season 7 is ongoing with the Startale App, @Arkada_gg, @capncompany, and @SakeFinance. Turn your onchain activity into a score.",
+    "ts": "2026-02-27T09:40:10.901Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "A report by Bybit and Block Scholes points to divergent signals in the Bitcoin derivatives market.",
+      "grade": "B",
+      "score": 65,
+      "signal": "neutral",
+      "status": "done",
+      "summary": "Bybit与Block Scholes的报告指出比特币衍生品市场存在信号分歧"
+    },
+    "coins": [
+      {
+        "symbol": "BTC",
+        "market_type": "cex",
+        "match": [
+          "BITCOIN"
+        ]
+      }
+    ],
+    "description": "",
+    "engineType": "news",
+    "id": 948259,
+    "link": "https://chainwire.org/bybit-and-block-scholes-report-highlights-diverging-signals-in-bitcoin-derivatives-markets",
+    "newsType": "phoenixnews",
+    "source": "Webs",
+    "text": "Bybit and Block Scholes Report Highlights Diverging Signals in Bitcoin Derivatives Markets",
+    "ts": "2026-02-27T09:48:31.509Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "A report by Bybit and Block Scholes points to divergent signals in the Bitcoin derivatives market.",
+      "grade": "B",
+      "score": 65,
+      "signal": "neutral",
+      "status": "done",
+      "summary": "Bybit与Block Scholes的报告指出比特币衍生品市场存在信号分歧。"
+    },
+    "coins": [
+      {
+        "symbol": "BTC",
+        "market_type": "cex",
+        "match": [
+          "BITCOIN"
+        ]
+      }
+    ],
+    "description": "",
+    "engineType": "news",
+    "id": 948260,
+    "link": "https://chainwire.org/2026/02/27/bybit-and-block-scholes-report-highlights-diverging-signals-in-bitcoin-derivatives-markets/",
+    "newsType": "Chainwire",
+    "source": "",
+    "text": "Bybit and Block Scholes Report Highlights Diverging Signals in Bitcoin Derivatives Markets",
+    "ts": "2026-02-27T09:48:32.066485Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "Venus Flux has been launched on BNB Chain, offering a $1 million incentive program in partnership with VenusProtocol, 0xFluid, and UTechStables. As BNB Chain&#39;s first unified liquidity layer, it supports single deposits across lending and trading scenarios.",
+      "grade": "B+",
+      "score": 65,
+      "signal": "long",
+      "status": "done",
+      "summary": "Venus Flux已在BNB Chain上线，联合VenusProtocol、0xFluid、UTechStables推出100万美元激励，其作为BNB Chain首个统一流动性层，支持单笔存款跨借贷、交易场景使用资金"
+    },
+    "coins": [
+      {
+        "symbol": "XVS",
+        "market_type": "cex",
+        "match": [
+          "VENUS"
+        ]
+      },
+      {
+        "symbol": "FLUX",
+        "market_type": "cex",
+        "match": [
+          "FLUX"
+        ]
+      },
+      {
+        "symbol": "BNB",
+        "market_type": "cex",
+        "match": [
+          "BNB"
+        ]
+      },
+      {
+        "symbol": "LAYER",
+        "market_type": "cex",
+        "match": [
+          "LAYER"
+        ]
+      }
+    ],
+    "description": "Venus Protocol (@VenusProtocol)",
+    "engineType": "news",
+    "id": 948267,
+    "link": "https://twitter.com/VenusProtocol/status/2027320076404511092",
+    "newsType": "tree",
+    "source": "",
+    "text": "Venus Flux is live on BNB Chain — and we're launching with $1M in incentives from @VenusProtocol @0xFluid @UTechStables.\nDeposit into the first Unified Liquidity Layer on @BNBCHAIN and put your capital to work across lending, borrowing, and trading — all from a single deposit.",
+    "ts": "2026-02-27T09:49:06.911Z"
+  },
+  {
+    "aiRating": {
+      "enSummary": "Bybit Kazakhstan launches Private Wealth Management (PWM) service for large-scale cryptocurrency investors.",
+      "grade": "B",
+      "score": 65,
+      "signal": "neutral",
+      "status": "done",
+      "summary": "Bybit Kazakhstan为大规模加密货币投资者推出私人财富管理（PWM）服务。"
+    },
+    "coins": null,
+    "description": "",
+    "engineType": "news",
+    "id": 948277,
+    "link": "https://chainwire.org/bybit-kazakhstan-launches-private-wealth-management-pwm-service-for-large-scale-crypto-investors",
+    "newsType": "phoenixnews",
+    "source": "Webs",
+    "text": "Bybit Kazakhstan Launches Private Wealth Management (PWM) Service for Large-Scale Crypto Investors",
+    "ts": "2026-02-27T09:51:19.313Z"
+  }
+]
